@@ -1,0 +1,90 @@
+{
+    "Premier League": [
+        {
+            "fixtureID": 0,
+            "homeTeam": "Brentford",
+            "awayTeam": "Arsenal",
+            "time": "2022-07-07T20:00:00.000Z",
+            "results": [1,3]
+        },
+        {
+            "fixtureID": 1,
+            "homeTeam": "Manchester United",
+            "awayTeam": "Leeds",
+            "time": "2022-07-08T12:30:00.000Z",
+            "results": [2,0]
+        },
+        {
+            "fixtureID": 2,
+            "homeTeam": "Burnley",
+            "awayTeam": "Brighton",
+            "time": "2022-07-08T12:30:00.000Z",
+            "results": [0,1]    
+        },
+        {
+            "fixtureID": 3,
+            "homeTeam": "Chelsea",
+            "awayTeam": "Crystal Palace",
+            "time": "2022-07-08T12:30:00.000Z",
+            "results": [4,3]    
+        },
+        {
+            "fixtureID": 4,
+            "homeTeam": "Everton",
+            "awayTeam": "Southampton",
+            "time": "2022-07-08T12:30:00.000Z",
+            "results": [2,2]    
+        },
+        {
+            "fixtureID": 5,
+            "homeTeam": "Leicester City",
+            "awayTeam": "Wolverhampton Wolves",
+            "time": "2022-07-08T12:30:00.000Z",
+            "results": [2,3]    
+        },
+        {
+            "fixtureID": 6,
+            "homeTeam": "Watford",
+            "awayTeam": "Aston Villa",
+            "time": "2022-07-08T12:30:00.000Z",
+            "results": [1,1]    
+        },
+        {
+            "fixtureID": 7,
+            "homeTeam": "Norwich",
+            "awayTeam": "Liverpool",
+            "time": "2022-07-08T17:30:00.000Z",
+            "results": [1,6]    
+        },
+        {
+            "fixtureID": 8,
+            "homeTeam": "Newcastle City",
+            "awayTeam": "West Ham",
+            "time": "2022-07-08T18:00:00.000Z",
+            "results": [3,0]    
+        },
+        {
+            "fixtureID": 9,
+            "homeTeam": "Spurs",
+            "awayTeam": "Manchester City",
+            "time": "2022-07-08T18:30:00.000Z",
+            "results": [4,4]    
+        }
+    ],
+    "World Cup": [
+        {
+            "fixtureID": 0,
+            "homeTeam": "Brazil",
+            "awayTeam": "Germany",
+            "time": "2022-07-08T10:00:00.000Z",
+            "results": [1,7]
+        },
+        {
+            "fixtureID": 1,
+            "homeTeam": "France",
+            "awayTeam": "England",
+            "time": "2022-07-08T14:00:00.000Z",
+            "results": [2,0]
+        }
+    ]
+}
